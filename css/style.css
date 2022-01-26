@@ -340,6 +340,7 @@ img {
 .btn .btn-prj {
   padding: 6px 22px;
   border: none;
+  border-radius: 4px;
 }
 
 .btn .item + .item {
@@ -383,17 +384,17 @@ img {
   line-height: 2px;
   letter-spacing: 0.06em;
   color: var(--main-text-color);
+  margin-bottom: 4px;
 }
 
 .prj p {
   font-size: 16px;
   line-height: 1.9;
   color: var(--second--text-color);
-  margin-top: 4px;
   margin-bottom: 0;
 }
 
-.div-h2p {
+.div-hp {
   /* outline: 2px solid green; */
   padding-top: 20px;
   padding-bottom: 20px;
